@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "183568777633",
+    "firebase_url": "https://indriver-console-default-rtdb.firebaseio.com",
+    "project_id": "indriver-console",
+    "storage_bucket": "indriver-console.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:183568777633:android:a2de30e0dc1a7a52b54be0",
+        "android_client_info": {
+          "package_name": "com.example.drivers_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6MwtOeUm1Q2JjJV0LonmauFXOo6u6i-0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:183568777633:android:184d57be4192effdb54be0",
+        "android_client_info": {
+          "package_name": "com.example.user_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6MwtOeUm1Q2JjJV0LonmauFXOo6u6i-0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
